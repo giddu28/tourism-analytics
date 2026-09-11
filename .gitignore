@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.python_packages/
+
+# Streamlit and operating-system files
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
+
+# Reproducible generated model outputs
+artifacts/
